@@ -457,6 +457,7 @@ a:hover { color: var(--accent-dark); }
   .cta-inner { padding-top: 36px; padding-bottom: 36px; }
   .cta-buttons, .cta-buttons .btn { width: 100%; }
   .footer-inner { padding-bottom: 96px; }
+  .footer-col:first-child .footer-logo { margin-top: 8px; }
   .chip { font-size: 14px; }
   .page-head { padding: 24px 0 24px; }
   .page-lead { font-size: 16px; }
